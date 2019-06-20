@@ -1,2 +1,2 @@
 ball_chaser:my_robot
--DCATKIN_DEVEL_PREFIX=/home/anupam/github/robond/task2/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anupam/github/robond/task2/workspace/catkin_ws/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/install -G Unix Makefiles

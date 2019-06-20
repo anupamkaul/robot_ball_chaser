@@ -1,7 +1,7 @@
 # generated from genmsg/cmake/pkg-genmsg.context.in
 
 messages_str = ""
-services_str = "/home/anupam/github/robond/task2/workspace/catkin_ws/src/ball_chaser/srv/DriveToTarget.srv"
+services_str = "/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/src/ball_chaser/srv/DriveToTarget.srv"
 pkg_name = "ball_chaser"
 dependencies_str = "std_msgs"
 langs = "gencpp;geneus;genlisp;gennodejs;genpy"

@@ -1,8 +1,0 @@
-prefix=/home/anupam/robond/task5/workspace/catkin_ws/devel
-
-Name: turtlebot_dashboard
-Description: Description of turtlebot_dashboard
-Version: 2.3.1
-Cflags: 
-Libs: -L/home/anupam/robond/task5/workspace/catkin_ws/devel/lib 
-Requires: 

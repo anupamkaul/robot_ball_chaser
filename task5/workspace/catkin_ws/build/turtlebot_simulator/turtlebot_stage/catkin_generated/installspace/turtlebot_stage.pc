@@ -1,8 +1,0 @@
-prefix=/home/anupam/robond/task5/workspace/catkin_ws/install
-
-Name: turtlebot_stage
-Description: Description of turtlebot_stage
-Version: 2.2.3
-Cflags: 
-Libs: -L/home/anupam/robond/task5/workspace/catkin_ws/install/lib 
-Requires: 

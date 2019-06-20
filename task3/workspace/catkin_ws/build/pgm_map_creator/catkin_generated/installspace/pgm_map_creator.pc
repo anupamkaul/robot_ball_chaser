@@ -1,8 +1,0 @@
-prefix=/home/anupam/robond/task3/workspace/catkin_ws/install
-
-Name: pgm_map_creator
-Description: Description of pgm_map_creator
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/anupam/robond/task3/workspace/catkin_ws/install/lib 
-Requires: 

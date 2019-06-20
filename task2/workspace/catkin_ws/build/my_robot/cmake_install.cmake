@@ -1,8 +1,8 @@
-# Install script for directory: /home/anupam/github/robond/task2/workspace/catkin_ws/src/my_robot
+# Install script for directory: /home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/src/my_robot
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/anupam/github/robond/task2/workspace/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/anupam/github/robond/task2/workspace/catkin_ws/build/my_robot/catkin_generated/installspace/my_robot.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/build/my_robot/catkin_generated/installspace/my_robot.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_robot/cmake" TYPE FILE FILES
-    "/home/anupam/github/robond/task2/workspace/catkin_ws/build/my_robot/catkin_generated/installspace/my_robotConfig.cmake"
-    "/home/anupam/github/robond/task2/workspace/catkin_ws/build/my_robot/catkin_generated/installspace/my_robotConfig-version.cmake"
+    "/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/build/my_robot/catkin_generated/installspace/my_robotConfig.cmake"
+    "/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/build/my_robot/catkin_generated/installspace/my_robotConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_robot" TYPE FILE FILES "/home/anupam/github/robond/task2/workspace/catkin_ws/src/my_robot/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_robot" TYPE FILE FILES "/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/src/my_robot/package.xml")
 endif()
 

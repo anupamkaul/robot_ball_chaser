@@ -1,2 +1,0 @@
-my_robot:pgm_map_creator:teleop_twist_keyboard
--DCATKIN_DEVEL_PREFIX=/home/anupam/robond/task4/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anupam/robond/task4/workspace/catkin_ws/install -G Unix Makefiles

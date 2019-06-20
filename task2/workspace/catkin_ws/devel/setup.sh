@@ -10,7 +10,7 @@
 
 # since this file is sourced either use the provided _CATKIN_SETUP_DIR
 # or fall back to the destination set at configure time
-: ${_CATKIN_SETUP_DIR:=/home/anupam/github/robond/task2/workspace/catkin_ws/devel}
+: ${_CATKIN_SETUP_DIR:=/home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/devel}
 _SETUP_UTIL="$_CATKIN_SETUP_DIR/_setup_util.py"
 unset _CATKIN_SETUP_DIR
 

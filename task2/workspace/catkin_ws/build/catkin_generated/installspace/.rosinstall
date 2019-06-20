@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/anupam/github/robond/task2/workspace/catkin_ws/install/setup.sh
+    local-name: /home/anupam/robot_ball_chaser/task2/workspace/catkin_ws/install/setup.sh

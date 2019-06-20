@@ -1,8 +1,0 @@
-prefix=/home/anupam/robond/task5/workspace/catkin_ws/devel
-
-Name: home_service
-Description: Description of home_service
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/anupam/robond/task5/workspace/catkin_ws/devel/lib 
-Requires: 
